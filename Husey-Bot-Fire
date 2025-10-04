@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Conditions d'utilisation & Politique de confidentialité</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      margin: 40px;
+      background-color: #f9f9f9;
+      color: #333;
+    }
+    h1, h2 {
+      color: #2c3e50;
+    }
+    section {
+      margin-bottom: 40px;
+    }
+  </style>
+</head>
+<body>
+  <h1>Conditions d'utilisation</h1>
+  <section>
+    <p>En utilisant notre bot Discord, vous acceptez les présentes conditions :</p>
+    <ul>
+      <li>Le bot est fourni "tel quel", sans garantie de fonctionnement continu.</li>
+      <li>Vous ne devez pas tenter de perturber ou de modifier le comportement du bot.</li>
+      <li>Nous nous réservons le droit de modifier ou de supprimer le bot à tout moment.</li>
+      <li>Le bot peut collecter certaines données nécessaires à son bon fonctionnement (ex. ID utilisateur, ID serveur).</li>
+    </ul>
+  </section>
+
+  <h2>Politique de confidentialité</h2>
+  <section>
+    <p>La confidentialité de vos données est importante pour nous. Voici comment nous les traitons :</p>
+    <ul>
+      <li>Les données collectées sont limitées aux informations nécessaires pour exécuter les commandes du bot.</li>
+      <li>Aucune donnée personnelle sensible n'est stockée ou partagée avec des tiers.</li>
+      <li>Vous pouvez demander la suppression de vos données à tout moment via une commande dédiée ou en nous contactant.</li>
+      <li>Les données sont stockées de manière sécurisée et ne sont utilisées que dans le cadre du fonctionnement du bot.</li>
+    </ul>
+  </section>
+
+  <footer>
+    <p>&copy; 2025 EnzoBot. Tous droits réservés.</p>
+  </footer>
+</body>
+</html>
